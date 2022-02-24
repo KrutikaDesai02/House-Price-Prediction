@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f0226e-a63b-4b23-b4f3-af3dfd3d5dc9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/client/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/app.html" afterDir="false" />
-    </list>
+    <list default="true" id="15f0226e-a63b-4b23-b4f3-af3dfd3d5dc9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
